@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE3bGpxcDl2MGo4dDc2ajk3eGNlOGM4d2prbHRmajltMWp5b3BnZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=FOSSIP+PROJECTS;Machine+Learning+Simulations;Python+%7C+AI+%7C+Statistics" />
 </p>
+
 
 <h1 align="center">Hi, I'm Diya 👋</h1>
 
