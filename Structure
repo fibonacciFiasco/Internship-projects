@@ -1,0 +1,32 @@
+FOSSIP-Internship-2025-DiyaPatel/
+│
+├── 01-Monty-Hall-Simulation/
+│   ├── monty_hall_simulation.py
+│   ├── monty_hall_simulation.ipynb
+│   ├── README.md
+│
+├── 02-Central-Limit-Theorem-Animation/
+│   ├── clt_animation.py
+│   ├── clt_animation.ipynb
+│   ├── sample_plots/
+│   ├── README.md
+│
+├── 03-Linear-Regression-Realtime-Visualization/
+│   ├── realtime_regression.py
+│   ├── regression_visualization.ipynb
+│   ├── preview.gif 
+│   ├── README.md
+│
+├── 04-Python-Basics-and-Data-Handling/
+│   ├── data_cleaning.ipynb
+│   ├── pandas_exploration.ipynb
+│   ├── numpy_basics.ipynb
+│   ├── README.md
+│
+├── 05-ML-Models-and-Evaluation/
+│   ├── classification_models.ipynb
+│   ├── regression_models.ipynb
+│   ├── model_evaluation.ipynb
+│   ├── README.md
+│
+└── README.md  ← main repo README (provided below)
