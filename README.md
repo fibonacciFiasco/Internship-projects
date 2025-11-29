@@ -30,11 +30,9 @@
 
 During the **Faculty of Science Summer Internship Program (FOSSIP) 2025**, I worked under the mentorship of **Dr. Hemang Tanna** and built statistical + machine learning projects from scratch.
 
-### 🔗 Repository:  
-[👉 FOSSIP-Internship-2025-DiyaPatel](https://github.com/FibonacciFiasco/FOSSIP-Internship-2025-DiyaPatel)
 
 ### 🔬 Projects I built:
-- 🎲 Monte Carlo Simulation — **Monty Hall Problem**  
+- 🎲 Statistics— **Basic Statistics program**  
 - 📈 Animated **Central Limit Theorem (CLT)** visualizer  
 - 📊 **Real-Time Linear Regression** animation with dynamic R²  
 - 🐍 Python basics: NumPy, Pandas, Matplotlib practice  
