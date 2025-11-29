@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Zpc2F4dHYxcGdvZjZpZWJta2FiZjEybGRnbWdkc2oyZWM2Mmc0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlSNOxJB956qwfK/giphy.gif" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHdxdzU4YjZ1cm1hamY2bWcwMGt6cjg2aHZtcTgzcGRvbjRsbWNkYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/m9eG1qVjvN8Ag/giphy.gif" width="100%" />
 </p>
+
 
 
 <h1 align="center">Hi, I'm Diya 👋</h1>
