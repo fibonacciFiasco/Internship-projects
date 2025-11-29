@@ -1,0 +1,22 @@
+# Regression Analysis Project
+
+A Python-based project for performing **linear and multiple regression analysis**.  
+This project demonstrates key concepts in regression, including model fitting, prediction, and evaluation metrics.
+
+## Features
+
+- **Simple Linear Regression**: Predicting a target variable based on a single predictor.
+- **Multiple Linear Regression**: Predicting a target variable using multiple predictors.
+- **Data Visualization**: Scatter plots, regression lines, and residual plots.
+- **Evaluation Metrics**: Mean Squared Error (MSE), Root Mean Squared Error (RMSE), R-squared (R²).
+- **Custom Dataset Support**: Users can apply regression on their own CSV datasets.
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/regression-project.git
+
+2. Navigate to the project folder:
+
+cd regression-project
