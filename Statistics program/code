@@ -1,0 +1,145 @@
+# Discrete and continuous probabilities
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import binom, norm
+
+# Discrete: Binomial PMF
+x = np.arange(0, 11)
+pmf = binom.pmf(x, n=10, p=0.5)
+plt.bar(x, pmf, label='Binomial PMF', alpha=0.6)
+
+# Continuous: Normal PDF
+x_cont = np.linspace(-4, 4, 100)
+pdf = norm.pdf(x_cont, loc=0, scale=1)
+plt.plot(x_cont, pdf, label='Normal PDF', color='red')
+
+plt.legend()
+plt.title("Discrete vs Continuous Distributions")
+plt.show()
+
+# Sum rule, product rule, Baye's Theorem
+# Bayes' Theorem calculation
+P_D = 0.01
+P_pos_given_D = 0.95
+P_pos_given_noD = 0.05
+P_noD = 0.99
+
+P_pos = P_pos_given_D * P_D + P_pos_given_noD * P_noD
+P_D_given_pos = (P_pos_given_D * P_D) / P_pos
+print("P(Disease | Positive) =", round(P_D_given_pos, 3))
+
+# # Summary Statistics and Independence
+# import numpy as np
+
+# x = np.array([1, 2, 3, 4])
+# y = np.array([2, 4, 6, 8])  # perfectly correlated
+
+# mean_x = np.mean(x)
+# mean_y = np.mean(y)
+# cov = np.cov(x, y, bias=True)[0, 1]
+# corr = np.corrcoef(x, y)[0, 1]
+
+# print("Covariance:", cov)
+# print("Correlation:", corr)
+
+
+# # # Gaussian Distribution
+# # x = np.linspace(-4, 4, 100)
+# # y = norm.pdf(x, loc=0, scale=1)
+# # plt.plot(x, y)
+# # plt.title("Standard Normal Distribution")
+# # plt.show()
+
+
+
+# Change of Variables/Inverse Transform
+# Inverse Transform Sampling for Exponential(1)
+u = np.random.rand(10000)
+samples = -np.log(1 - u)
+
+plt.hist(samples, bins=50, density=True, alpha=0.6, label='Sampled')
+x = np.linspace(0, 10, 100)
+plt.plot(x, np.exp(-x), label='Exp(1) PDF')
+plt.legend()
+plt.title("Inverse Transform Sampling for Exponential")
+plt.show()
+
+# Gaussian Distribution
+import numpy as np
+import matplotlib.pyplot as plt
+from scipy.stats import norm
+
+# Parameters
+mu = 0        # Mean
+sigma = 1     # Standard deviation
+
+# x-axis range
+x = np.linspace(mu - 4*sigma, mu + 4*sigma, 1000)
+y = norm.pdf(x, mu, sigma)  # Probability density function
+
+# Plotting the normal distribution curve
+plt.figure(figsize=(10, 6))
+plt.plot(x, y, color='blue', label='Normal Distribution')
+plt.title('Gaussian (Normal) Distribution', fontsize=16)
+plt.xlabel('x')
+plt.ylabel('Probability Density')
+plt.grid(True)
+
+# Plot mean and standard deviations
+for i in range(-3, 4):
+    plt.axvline(mu + i*sigma, color='gray', linestyle='--', alpha=0.5)
+    if i != 0:
+        plt.text(mu + i*sigma, 0.02, f'{i}σ', ha='center')
+
+plt.axvline(mu, color='red', linestyle='--', label='Mean (μ)')
+plt.legend()
+plt.show()
+
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Example data
+X = np.array([2, 4, 6, 8])
+Y = np.array([1, 3, 5, 7])
+
+# Covariance
+cov_matrix = np.cov(X, Y, bias=True)  # bias=True for population cov
+cov_xy = cov_matrix[0, 1]
+
+# Correlation
+corr_matrix = np.corrcoef(X, Y)
+corr_xy = corr_matrix[0, 1]
+
+# Print results
+print("Covariance:", cov_xy)
+print("Correlation:", corr_xy)
+
+# Plot
+plt.scatter(X, Y)
+plt.title("Scatter Plot of X and Y")
+plt.xlabel("X")
+plt.ylabel("Y")
+plt.grid(True)
+plt.show()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
