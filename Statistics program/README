@@ -1,0 +1,22 @@
+# Statistics Programs
+
+A collection of Python programs for various statistical calculations and analyses.  
+This project is designed for students and enthusiasts to practice and understand fundamental statistical concepts.
+
+## Features
+
+- **Descriptive Statistics**: Mean, Median, Mode, Variance, Standard Deviation, Interquartile Range (IQR)
+- **Probability Calculations**: Z-scores, probability distributions
+- **Outlier Detection**: IQR-based outlier identification
+- **Simulation**: Dice roll simulator
+- **Learning Tools**: Flashcard app for statistics terms
+
+## Installation
+
+1. Clone the repository:
+
+git clone https://github.com/yourusername/statistics-project.git
+
+2.Navigate to the project folder:
+
+cd statistics-project
