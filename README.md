@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/matrix.svg" width="100%" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Zpc2F4dHYxcGdvZjZpZWJta2FiZjEybGRnbWdkc2oyZWM2Mmc0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlSNOxJB956qwfK/giphy.gif" width="100%" />
 </p>
+
 
 <h1 align="center">Hi, I'm Diya 👋</h1>
 
