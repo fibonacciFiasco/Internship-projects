@@ -10,15 +10,15 @@
 
 ## 👩‍💻 About Me  
 - 🎓 B.Sc. (Hons.) in **Statistics** at The Maharaja Sayajirao University of Baroda  
-- 🤖 Interested in **Machine Learning, AI, Data Science, Analytics, and Scientific Computing**  
+- 🤖 Interested in **Machine Learning, AI, Data Science and Analytics**  
 - 🔍 Currently exploring **Python, ML algorithms, simulations, and data visualization**  
-- 🎯 Goal: Become a **Data Scientist / ML Engineer**  
+- 🎯 Goal: Become a **Data Scientist**  
 - 🚀 Active learner building small projects and improving everyday
 
 ---
 
 ## 🧠 Skills & Tools  
-**Languages:** Python, SQL (learning)  
+**Languages:** Python, SQL (learning), HTML(learning) 
 **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, SciPy, Scikit-learn  
 **Tools:** VS Code, Spyder, GitHub, Jupyter Notebook  
 **Concepts:** Probability, Statistics, Data Analysis, Machine Learning Basics, Regression, Simulation  
@@ -41,23 +41,10 @@ During the **Faculty of Science Summer Internship Program (FOSSIP) 2025**, I wor
 
 ---
 
-## 📂 Featured Projects  
-Here are some repositories you’ll find here (and more coming 👇):
-
-### 🔹 **FOSSIP Internship Projects**  
-Simulations, ML visualizations, notebooks
-
-### 🔹 **Statistics + Python Mini Projects**  
-Z-score calculator, variance calculator, IQR outlier detector, dice-roll simulator
-
-### 🔹 **EDA Projects**  
-Delinquency prediction dataset analysis and reporting
-
----
 
 ## 📫 Connect With Me  
-- 💼 LinkedIn: *add your link here*  
-- 📧 Email: *add your email here*  
+- 💼 LinkedIn: *www.linkedin.com/in/pateldiya1005*  
+- 📧 Email: *pateldiya1005@gmail.com*  
 
 Feel free to explore my repositories, give feedback, or collaborate!
 
